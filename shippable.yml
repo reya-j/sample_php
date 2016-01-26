@@ -1,5 +1,5 @@
 language: php
-build_image: drydock/u12php:tip
+build_image: drydock/u14php:tip
 php: 
   - 5.3
   - 5.4
